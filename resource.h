@@ -2,7 +2,8 @@
 // Microsoft Visual C++ generated include file.
 // Used by MFC-DialogBoxes.rc
 //
-#define IDD_DIALOG1                     101
+
+// you will see the dialog box identifier and its integer value as well.
 #define IDD_EXAMPLE_DLG                 101
 
 // Next default values for new objects
